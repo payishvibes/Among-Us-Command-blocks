@@ -1,0 +1,2 @@
+execute if entity @e[tag=dummyPlayer,tag=!Imposter,distance=..3] if entity @s[tag=!Venting,tag=!inmeeting] run scoreboard players set @s InteractionAllowed 1
+execute if entity @a[tag=!Imposter,distance=..3,tag=Alive,tag=!incam,tag=!inCommunicationsFix] if entity @s[tag=!Venting,tag=!inmeeting,tag=!Faking,scores={killCooldown=0},tag=Alive] run scoreboard players set @s InteractionAllowed 1

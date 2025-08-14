@@ -64,7 +64,7 @@ item replace entity @a[tag=KillTarget] armor.head with carved_pumpkin
 tag @a[tag=KillTarget] add pumpkinClear
 scoreboard players set @a[tag=pumpkinClear] pumpkinclear 50
 
-scoreboard players set @s killCooldown 25
+execute store result score @s killCooldown run scoreboard players get Manager killCooldown
 
 ## Reset ##
 execute as @e[tag=KillTarget] run tag @s remove KillTarget

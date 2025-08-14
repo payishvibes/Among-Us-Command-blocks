@@ -40,7 +40,7 @@ execute as @a run tellraw @s [{"text":"You have ","color": "green"},{"score":{"n
 title @a[tag=!Imposter] actionbar {"text": "Complete tasks and find the imposters to win.","color": "aqua"}
 title @a[tag=Imposter] actionbar {"text": "Sabotage and murder your way to victory.","color": "red"}
 
-scoreboard players set @a[tag=Imposter] ventCooldown 10
+execute store result score @a[tag=Imposter] ventCooldown run scoreboard players get Manager ventCooldown
 scoreboard players set @a[tag=Imposter] killCooldown 10
 scoreboard players set @a[tag=Imposter] sabotageCooldown 10
 scoreboard players set @a[tag=Imposter] lowerenginedoors 10

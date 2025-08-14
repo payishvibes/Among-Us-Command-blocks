@@ -13,4 +13,5 @@ tellraw @a " "
 tellraw @a [{"selector":"@s","bold": true,"color": "dark_purple"},{"text":" called a meeting!","bold": true,"color": "dark_purple"}]
 
 execute as @a run playsound minecraft:meeting master @s
+
 function amongus:meeting

@@ -25,8 +25,8 @@ scoreboard players set Manager skippedPlayers 0
 scoreboard players set Manager votedPlayers 0
 scoreboard players set @a votes 0
 
-scoreboard players set @a[tag=Imposter] ventCooldown 15
-scoreboard players set @a[tag=Imposter] killCooldown 25
+execute store result score @a[tag=Imposter] ventCooldown run scoreboard players get Manager ventCooldown
+execute store result score @a[tag=Imposter] killCooldown run scoreboard players get Manager killCooldown
 
 scoreboard players set Manager meetingEnding 0
 scoreboard players set Manager voting 0

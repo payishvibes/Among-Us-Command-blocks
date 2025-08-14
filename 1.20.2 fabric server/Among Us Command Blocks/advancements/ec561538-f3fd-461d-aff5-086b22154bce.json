@@ -11,5 +11,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-05 12:18:52 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-05 12:18:52 +1100"
+    },
+    "done": true
+  },
   "DataVersion": 3578
 }

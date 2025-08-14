@@ -1,0 +1,223 @@
+[14:49:31] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:49:32] [ServerMain/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[14:49:32] [ServerMain/WARN]: Missing data pack fabric
+[14:49:33] [ServerMain/INFO]: Loaded 7 recipes
+[14:49:33] [ServerMain/INFO]: Loaded 1272 advancements
+[14:49:35] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[14:49:35] [Server thread/INFO]: Loading properties
+[14:49:35] [Server thread/INFO]: Default game type: ADVENTURE
+[14:49:35] [Server thread/INFO]: Generating keypair
+[14:49:35] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at ajn$1.run(SourceFile:89) ~[server-1.20.2.jar:?]
+[14:49:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:49:35] [Server thread/INFO]: Using default channel type
+[14:49:35] [Server thread/INFO]: Preparing level "Among Us Command Blocks"
+[14:49:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:49:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:49:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:49:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:49:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:49:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:49:38] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[14:49:38] [Server thread/INFO]: Time elapsed: 2839 ms
+[14:49:38] [Server thread/INFO]: Done (2.994s)! For help, type "help"
+[14:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5098ms or 101 ticks behind
+[14:55:14] [User Authenticator #1/INFO]: UUID of player PayishVibes is 58ac8f4a-7896-47c6-b742-fc451378e82f
+[14:55:20] [Server thread/INFO]: PayishVibes[/127.0.0.1:54449] logged in with entity id 34 at (-112.2729335652208, -4.0, -25.90250432988355)
+[14:55:20] [Server thread/INFO]: PayishVibes (formerly known as Techyte) joined the game
+[14:56:15] [Server thread/INFO]: PayishVibes lost connection: Disconnected
+[14:56:15] [Server thread/INFO]: PayishVibes left the game
+[14:56:27] [User Authenticator #2/INFO]: UUID of player PayishVibes is 58ac8f4a-7896-47c6-b742-fc451378e82f
+[14:56:27] [Server thread/INFO]: PayishVibes[/127.0.0.1:54586] logged in with entity id 53 at (-127.19999998807907, -2.4674474265678468, -29.453555474644325)
+[14:56:27] [Server thread/INFO]: PayishVibes joined the game
+[14:56:35] [Server thread/INFO]: [PayishVibes: Triggered [help]]
+[14:57:14] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[14:58:10] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[14:58:12] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[14:58:52] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[14:58:54] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[14:58:55] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[14:58:57] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[14:59:00] [Server thread/INFO]: [PayishVibes: Set own game mode to Survival Mode]
+[14:59:20] [Server thread/INFO]: [PayishVibes: Set own game mode to Adventure Mode]
+[14:59:36] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:01:18] [Server thread/INFO]: [PayishVibes: Set own game mode to Adventure Mode]
+[15:01:20] [Server thread/INFO]: [PayishVibes: Set own game mode to Survival Mode]
+[15:01:22] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:03:43] [Server thread/INFO]: [PayishVibes: Set own game mode to Adventure Mode]
+[15:03:52] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:03:57] [Server thread/INFO]: [PayishVibes: Set own game mode to Adventure Mode]
+[15:04:05] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:04:08] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:04:13] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:04:15] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:04:17] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:04:19] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:05:17] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:05:21] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:05:30] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:05:42] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:05:49] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:06:21] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:06:39] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:07:36] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:08:35] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:08:36] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:08:38] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:08:41] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:11:09] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:11:09] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:11:09] [Server thread/INFO]: Loaded 7 recipes
+[15:11:09] [Server thread/INFO]: Loaded 1272 advancements
+[15:11:19] [Server thread/INFO]: [PayishVibes: Executed 25 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:11:22] [Server thread/INFO]: [PayishVibes: Executed 25 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:11:49] [Server thread/INFO]: [PayishVibes: Executed 25 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:11:52] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:11:52] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:11:52] [Server thread/INFO]: Loaded 7 recipes
+[15:11:52] [Server thread/INFO]: Loaded 1272 advancements
+[15:11:54] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:11:57] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:12:09] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:12:15] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:12:18] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:12:21] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:12:34] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:12:34] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:12:34] [Server thread/INFO]: Loaded 7 recipes
+[15:12:34] [Server thread/INFO]: Loaded 1272 advancements
+[15:12:37] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:12:39] [Server thread/INFO]: [PayishVibes: Executed 27 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:13:43] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:13:43] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:13:43] [Server thread/INFO]: Loaded 7 recipes
+[15:13:43] [Server thread/INFO]: Loaded 1272 advancements
+[15:13:47] [Server thread/INFO]: [PayishVibes: Executed 28 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:13:50] [Server thread/INFO]: [PayishVibes: Executed 28 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:13:56] [Server thread/INFO]: [PayishVibes: Executed 28 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:14:02] [Server thread/INFO]: [PayishVibes: Executed 28 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:14:28] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:14:28] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:14:28] [Server thread/INFO]: Loaded 7 recipes
+[15:14:28] [Server thread/INFO]: Loaded 1272 advancements
+[15:14:30] [Server thread/INFO]: [PayishVibes: Executed 25 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:14:33] [Server thread/INFO]: [PayishVibes: Executed 25 command(s) from function 'amongus:tasks/reset/shields/divert_power']
+[15:14:38] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:16:35] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:17:03] [Server thread/INFO]: [PayishVibes: Set own game mode to Adventure Mode]
+[15:17:28] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:18:30] [Server thread/INFO]: [PayishVibes: Gave 1 [PayishVibes's Head] to PayishVibes]
+[15:18:58] [Server thread/INFO]: [PayishVibes: Gave 1 [PayishVibes's Head] to PayishVibes]
+[15:20:19] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:20:20] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:20:30] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:20:32] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:21:18] [Server thread/INFO]: [PayishVibes: Set [numOfPlayers] for math to 1]
+[15:24:02] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:24:02] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:24:02] [Server thread/INFO]: Loaded 7 recipes
+[15:24:02] [Server thread/INFO]: Loaded 1272 advancements
+[15:25:34] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:25:34] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:25:34] [Server thread/INFO]: Loaded 7 recipes
+[15:25:34] [Server thread/INFO]: Loaded 1272 advancements
+[15:25:59] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:25:59] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:25:59] [Server thread/INFO]: Loaded 7 recipes
+[15:25:59] [Server thread/INFO]: Loaded 1272 advancements
+[15:27:36] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:27:36] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:27:36] [Server thread/INFO]: Loaded 7 recipes
+[15:27:36] [Server thread/INFO]: Loaded 1272 advancements
+[15:27:50] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:27:50] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:27:50] [Server thread/INFO]: Loaded 7 recipes
+[15:27:50] [Server thread/INFO]: Loaded 1272 advancements
+[15:29:06] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:29:23] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:29:25] [Server thread/INFO]: [PayishVibes: Set own game mode to Spectator Mode]
+[15:29:27] [Server thread/INFO]: [PayishVibes: Set own game mode to Creative Mode]
+[15:31:36] [Server thread/INFO]: [PayishVibes: Set [ambianceLoop] for Manager to 0]
+[15:34:24] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:34:24] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:34:24] [Server thread/INFO]: Loaded 7 recipes
+[15:34:24] [Server thread/INFO]: Loaded 1272 advancements
+[15:34:42] [Server thread/INFO]: [PayishVibes: Executed 230 command(s) from function 'amongus:end/backtolobby']
+[15:34:42] [Server thread/WARN]: PayishVibes moved too quickly! 125.0,-56.0,38.0
+[15:34:42] [Server thread/WARN]: PayishVibes moved too quickly! 125.0,-56.0,38.0
+[15:34:42] [Server thread/WARN]: PayishVibes moved too quickly! 125.0,-56.0,38.0
+[15:36:40] [Server thread/INFO]: [PayishVibes: Set [ambianceLoop] for Manager to 0]
+[15:36:51] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:36:51] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:36:51] [Server thread/INFO]: Loaded 7 recipes
+[15:36:51] [Server thread/INFO]: Loaded 1272 advancements
+[15:36:54] [Server thread/INFO]: [PayishVibes: Executed 230 command(s) from function 'amongus:end/backtolobby']
+[15:37:19] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:37:19] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:37:19] [Server thread/INFO]: Loaded 7 recipes
+[15:37:19] [Server thread/INFO]: Loaded 1272 advancements
+[15:38:10] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:38:10] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:38:10] [Server thread/INFO]: Loaded 7 recipes
+[15:38:10] [Server thread/INFO]: Loaded 1272 advancements
+[15:38:15] [Server thread/INFO]: [PayishVibes: Set [ambianceLoop] for Manager to 0]
+[15:38:30] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:38:30] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:38:30] [Server thread/INFO]: Loaded 7 recipes
+[15:38:30] [Server thread/INFO]: Loaded 1272 advancements
+[15:38:37] [Server thread/INFO]: [PayishVibes: Set [ambianceLoop] for Manager to 0]
+[15:39:09] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:39:09] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:39:09] [Server thread/INFO]: Loaded 7 recipes
+[15:39:09] [Server thread/INFO]: Loaded 1272 advancements
+[15:39:13] [Server thread/INFO]: [Not Secure] [@] yo wtf why isnt the crewmate win sfx working
+[15:39:27] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:39:27] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:39:27] [Server thread/INFO]: Loaded 7 recipes
+[15:39:27] [Server thread/INFO]: Loaded 1272 advancements
+[15:39:30] [Server thread/INFO]: [PayishVibes: Set [ambianceLoop] for Manager to 0]
+[15:39:33] [Server thread/INFO]: [Not Secure] [@] yo wtf why isnt the crewmate win sfx working
+[15:39:54] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:39:54] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:39:54] [Server thread/INFO]: Loaded 7 recipes
+[15:39:54] [Server thread/INFO]: Loaded 1272 advancements
+[15:40:59] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:40:59] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:40:59] [Server thread/INFO]: Loaded 7 recipes
+[15:40:59] [Server thread/INFO]: Loaded 1272 advancements
+[15:41:02] [Server thread/INFO]: [Not Secure] [@] hey this is the thing thats playing the roles tget sound
+[15:41:04] [Server thread/INFO]: [Not Secure] [@] yo wtf why isnt the crewmate win sfx working
+[15:41:18] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:41:18] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:41:18] [Server thread/INFO]: Loaded 7 recipes
+[15:41:18] [Server thread/INFO]: Loaded 1272 advancements
+[15:42:56] [Server thread/WARN]: Missing metadata in pack file/Among Us Datapack.zip
+[15:42:56] [Server thread/INFO]: [PayishVibes: Reloading!]
+[15:42:56] [Server thread/INFO]: Loaded 7 recipes
+[15:42:56] [Server thread/INFO]: Loaded 1272 advancements
+[15:43:09] [Server thread/INFO]: [PayishVibes: Executed 230 command(s) from function 'amongus:end/backtolobby']
+[15:46:29] [Server thread/INFO]: PayishVibes lost connection: Disconnected
+[15:46:29] [Server thread/INFO]: PayishVibes left the game
+[15:46:35] [Server thread/INFO]: Stopping the server
+[15:46:35] [Server thread/INFO]: Stopping server
+[15:46:35] [Server thread/INFO]: Saving players
+[15:46:35] [Server thread/INFO]: Saving worlds
+[15:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Among Us Command Blocks]'/minecraft:overworld
+[15:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Among Us Command Blocks]'/minecraft:the_end
+[15:46:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Among Us Command Blocks]'/minecraft:the_nether
+[15:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (Among Us Command Blocks): All chunks are saved
+[15:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:46:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
